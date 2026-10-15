@@ -1,0 +1,2 @@
+# rofi
+configurações do rofi
