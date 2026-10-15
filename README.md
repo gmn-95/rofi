@@ -106,6 +106,11 @@ Para conferir os atalhos, execute dentro de uma sessão do Hyprland:
 ~/.config/rofi/scripts/hyprland-shortcuts.sh
 ```
 
+## Exemplo
+
+<img width="770" height="527" alt="image" src="https://github.com/user-attachments/assets/f203950a-79ce-419a-af80-e1816f884dcf" />
+
+
 ## Créditos
 
 A estrutura de launchers, applets e menus de energia parte do projeto
