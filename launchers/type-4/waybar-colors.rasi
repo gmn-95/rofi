@@ -1,0 +1,12 @@
+/* Catppuccin Mocha — mesma paleta da Waybar. */
+* {
+    background:     #1e1e2e;
+    background-alt: #313244;
+    foreground:     #cdd6f4;
+    muted:          #a6adc8;
+    border:         #45475a;
+    selected:       #cba6f7;
+    active:         #89dceb;
+    urgent:         #f38ba8;
+    crust:          #11111b;
+}
